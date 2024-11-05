@@ -1,0 +1,3 @@
+[submodule "bushfire_alert"]
+	path = bushfire_alert
+	url = git@github.com:caltunay/bushfire_alert.git
