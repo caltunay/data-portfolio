@@ -1,3 +1,36 @@
 [submodule "bushfire_alert"]
 	path = bushfire_alert
 	url = git@github.com:caltunay/bushfire_alert.git
+[submodule "hamlet_challenge_text_analytics"]
+	path = hamlet_challenge_text_analytics
+	url = git@github.com:caltunay/hamlet_challenge_text_analytics.git
+[submodule "tr_lyrics_scraping"]
+	path = tr_lyrics_scraping
+	url = git@github.com:caltunay/tr_lyrics_scraping.git
+[submodule "eng-lyricist-custom"]
+	path = eng-lyricist-custom
+	url = git@github.com:caltunay/eng-lyricist-custom.git
+[submodule "tr-lyricist-custom"]
+	path = tr-lyricist-custom
+	url = git@github.com:caltunay/tr-lyricist-custom.git
+[submodule "analysis_for_fun"]
+	path = analysis_for_fun
+	url = git@github.com:caltunay/analysis_for_fun.git
+[submodule "dd_competition_earthquake_damage_prediction"]
+	path = dd_competition_earthquake_damage_prediction
+	url = git@github.com:caltunay/dd_competition_earthquake_damage_prediction.git
+[submodule "dd_competition_heart_disease_prediction"]
+	path = dd_competition_heart_disease_prediction
+	url = git@github.com:caltunay/dd_competition_heart_disease_prediction.git
+[submodule "dd-competition_umg_prediction"]
+	path = dd-competition_umg_prediction
+	url = git@github.com:caltunay/dd-competition_umg_prediction.git
+[submodule "kaggle_competition_diamond_price_prediction"]
+	path = kaggle_competition_diamond_price_prediction
+	url = git@github.com:caltunay/kaggle_competition_diamond_price_prediction.git
+[submodule "dd_competition-heart_disease_prediction"]
+	path = dd_competition-heart_disease_prediction
+	url = git@github.com:caltunay/dd_competition-heart_disease_prediction.git
+[submodule "cafe_investment_advice"]
+	path = cafe_investment_advice
+	url = git@github.com:caltunay/cafe_investment_advice.git
