@@ -39,6 +39,11 @@ Welcome to my data portfolio! Below are categorized projects showcasing my exper
 
 **Description:** Developed a language model and Twitter bot for generating and publishing song lyrics, securing 3rd place in a national AI competition.
 
+## A/B Testing for E-commerce Landing Page
+- [ab_testing_ecommerce_campaign](https://github.com/caltunay/data-portfolio/tree/main/ab-testing)
+
+**Description:** Conducted A/B testing to evaluate the effectiveness of an e-commerce campaign landing page. Checked statistical significance testing using bootstrapping and permutation tests for conversion rate.
+
 ## Analysis for Fun
 - [analysis_for_fun](https://github.com/caltunay/analysis_for_fun/tree/cb663421d87206cffc40319128befdf74b0e9e74)
 
