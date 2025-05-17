@@ -12,11 +12,6 @@ Welcome to my data portfolio! Below are categorized projects showcasing my exper
 
 **Description:** Analyzed sales data to identify product affinities and optimize cross-selling strategies. Developed a dynamic tool for marketing recommendations.
 
-## Optimizing Engagement & Retention for a Fintech SaaS Product
-- [fintech_digibank_analysis](https://github.com/caltunay/data-portfolio/tree/main/fintech_digibank_analysis)
-
-**Description:** Enhanced user engagement for a digital bank through advanced analytics and machine learning.
-
 ## Customer Segmentation and Lifetime Value Calculation for E-commerce
 - [ltv-shopify-ecommerce](https://github.com/caltunay/data-portfolio/tree/main/ltv-shopify-ecommerce)
 
