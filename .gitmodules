@@ -34,3 +34,6 @@
 [submodule "cafe_investment_advice"]
 	path = cafe_investment_advice
 	url = git@github.com:caltunay/cafe_investment_advice.git
+[submodule "strength-rag-chatbot"]
+	path = strength-rag-chatbot
+	url = https://github.com/caltunay/strength-rag-chatbot.git
